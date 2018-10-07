@@ -1,8 +1,11 @@
 
 public class Minion {
- static void main(String[] args) {
-	String name =("name");
+
+	 private String name;
+	 private int eyes;
+	private String color;
+	private String master;
 	
-	
+	minion
 }
-}
+
